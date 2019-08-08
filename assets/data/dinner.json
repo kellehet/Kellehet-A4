@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"name": "Butter Chicken","price": "$ 20.99", "calories": 1200},
+          {"name": "Green Curry","price": "$ 17.99", "calories": 900},
+          {"name": "12oz Baseball Striplion","price": "$ 30.99", "calories": 900}
+      ]
+  }

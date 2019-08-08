@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"name": "Banquet Burger and Fries","price": "$ 15.99", "calories": 900},
+          {"name": "Chicken Casaer Salad","price": "$ 13.99", "calories": 700},
+          {"name": "1lb of Wings","price": "$ 10.99", "calories": 600}
+      ]
+  }
